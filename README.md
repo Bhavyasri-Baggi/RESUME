@@ -3,7 +3,7 @@
 <head><title>MY RESUME</title></head>
 <body>
 	<h1 align="center"> BHAVYA SRI BAGGI</h1>
-	<p><b>NAME:</b>Bhavyasri</p>
+	<p><b>NAME:</b>Bhavya Sri</p>
 	<p><b>MOBILE:</b>9963162621</p>
 	<p><b>Email:</b>bhavyabaggi407@gmail.com</p>
 	<br><hr><h1><u>CAREER OBJECTIVE:</u></h1>
@@ -49,9 +49,10 @@
 	<p><b>Date of Birth:</b>04-04-2004</p>
 	<p><b>Languages Known:</b>Telugu,English</p>
 	<p><b>Hobbies:</b>Watching T.V,Browsing internet,Knowing new things.</p>
-	<p><b>Permanent Address:</b>4-52,Mokkapadu(V),Rajupalem(M),Guntur(Dt),Pin-code:522412.
+	<p><b>Permanent Address:</b>4-52,Mokkapadu(V),Rajupalem(M),Guntur(Dt),Pin-code:522412.</p>
+	<h2><p><b><u>Area Of Interest:</u></b>Cyber Security</p></h2>
 		<p><h2>DECLARATION:</h2>I do here by declare that all the information mentioned above are true to best of my knowledge and belief.</p>
-		<p align="right"><b>SIGNATURE:</b>BHAVYA SRI BAGGI</p>
+		<p align="right" color="purple"><b>SIGNATURE:</b><i>BHAVYA SRI BAGGI</i></p>
 		<p><b>Place:</b>Guntur</p>
 		<p><b>Date:</b>02-10-2022</p>
 </body>
